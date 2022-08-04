@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1650999746 source:f:\projects\atm banking\atm banking\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
+1654703042 source:f:\projects\atm banking\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+
